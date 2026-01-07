@@ -1,0 +1,19 @@
+/*
+Theme Name: Yerel Fırsatlar
+Theme URI: https://yerelfirsatlar.com
+Author: Yerel Fırsatlar Ekibi
+Description: Kupon, kampanya ve yerel fırsatlar için özel WordPress teması
+Version: 1.0
+*/
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f6f6f6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+}
