@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>
-    <?php wp_head(); ?>
+<meta charset="<?php bloginfo('charset'); ?>">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?>>
-<header style="background:#ff7a00;color:#fff;padding:15px;">
-    <div class="container">
-        <h2>Yerel Fırsatlar</h2>
-    </div>
+<body>
+
+<header>
+  Yerel Fırsatlar
 </header>
-<div class="container">
