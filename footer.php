@@ -1,7 +1,13 @@
+<div style="height:80px"></div>
+
+<div class="alt-menu">
+  <a href="#">☰</a>
+  <a href="#">❤️</a>
+  <div class="plus-btn">+</div>
+  <a href="#">💬</a>
+  <a href="#">👤</a>
 </div>
-<footer style="background:#222;color:#fff;padding:20px;text-align:center;">
-    © <?php echo date('Y'); ?> Yerel Fırsatlar
-</footer>
+
 <?php wp_footer(); ?>
 </body>
 </html>
